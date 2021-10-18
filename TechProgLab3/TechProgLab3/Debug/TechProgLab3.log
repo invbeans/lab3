@@ -1,0 +1,6 @@
+﻿  SientificLibraryHall.cpp
+  TechProgLab3.cpp
+C:\Users\Buzuluchanka\source\repos\TechProgLab3\TechProgLab3\TechProgLab3.cpp(38,27): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "ScientificLibraryHall" (или приемлемое преобразование отсутствует)
+C:\Users\Buzuluchanka\source\repos\TechProgLab3\TechProgLab3\ScientificBook.h(74,18): message : может быть "ScientificBook &ScientificBook::operator =(const ScientificBook &)"
+C:\Users\Buzuluchanka\source\repos\TechProgLab3\TechProgLab3\TechProgLab3.cpp(38,27): message : при попытке сопоставить список аргументов "(ScientificBook, ScientificLibraryHall)"
+  Создание кода...
